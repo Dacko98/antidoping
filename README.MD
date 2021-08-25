@@ -2,7 +2,7 @@
 
 ## Databáza pre antidopingovú agentúru
 
-### Autori
+### Autory
 
 - Daniel Jacko xjacko04@stud.fit.vutbr.cz
 - Petr Mičulek xmicul08@stud.fit.vutbr.cz
