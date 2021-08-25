@@ -18,4 +18,4 @@ Dokumentacia sa nachadza v [`.documentation.pdf`](./documentation.pdf).
 - `./selects.sql` Ukážka výberu dát z tabuliek.
 - `./drops.sql` Zmazanie tabuliek.
 - `./procedures_and_triggers.sql` Procedúry a trigery.
-- `./whole_script.sql` Všetky vyššie spomenutá skripty spolu.
+- `./whole_script.sql` Všetky vyššie spomenuté skripty spolu.
