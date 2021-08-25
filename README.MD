@@ -9,7 +9,7 @@
 
 ### Dokumentácia
 
-Dokumentacia sa nachadza v [`.documentation.pdf`](.documentation.pdf).
+Dokumentacia sa nachadza v [`.documentation.pdf`](./documentation.pdf).
 
 ### Štruktúra projektu
 
